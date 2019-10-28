@@ -85,7 +85,7 @@
 	<div align="center" class="sampul">
 		<div id="contentSampul">
 				<img src="asset/icon/flatLogo.png" class="sampul-img">
-				<p class="sampul-judul">~ <i>" We Are Smart "</i> ~</p>
+				<p class="sampul-judul">~ <i>" Kita Pintar "</i> ~</p>
 				<p class="sampul-judul nd">:'( " Mari Kita menjadi Pintar Bersama !!! " :')</p>
 				<a href="#about"><img src="asset/icon/arrowbottom.png" class="ball"></a>
 		</div>
